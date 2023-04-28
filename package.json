@@ -1,0 +1,29 @@
+{
+  "name": "estudo-prisma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-yudi/estudo-prisma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-yudi/estudo-prisma/issues"
+  },
+  "homepage": "https://github.com/alex-yudi/estudo-prisma#readme",
+  "devDependencies": {
+    "@types/node": "^18.16.2",
+    "prisma": "^4.13.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.13.0"
+  }
+}
